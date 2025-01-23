@@ -1,2 +1,2 @@
 # chess
-game
+Plyer game chess
