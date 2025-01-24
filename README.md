@@ -1,5 +1,2 @@
 # chess
-
-
-
 Plyer game chess
